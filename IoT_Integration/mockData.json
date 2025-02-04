@@ -1,0 +1,122 @@
+[
+    {
+      "companyId": "COMP001",
+      "timestamp": 1720214400,
+      "emissions": 1500,
+      "verified": false
+    },
+    {
+      "companyId": "COMP002",
+      "timestamp": 1720214400,
+      "emissions": 890,
+      "verified": true
+    },
+    {
+      "companyId": "COMP003",
+      "timestamp": 1720300800,
+      "emissions": 1200,
+      "verified": true
+    },
+    {
+      "companyId": "COMP004",
+      "timestamp": 1720387200,
+      "emissions": 2300,
+      "verified": false
+    },
+    {
+      "companyId": "COMP005",
+      "timestamp": 1720473600,
+      "emissions": 750,
+      "verified": true
+    },
+    {
+      "companyId": "COMP006",
+      "timestamp": 1720560000,
+      "emissions": 1800,
+      "verified": false
+    },
+    {
+      "companyId": "COMP007",
+      "timestamp": 1720646400,
+      "emissions": 950,
+      "verified": true
+    },
+    {
+      "companyId": "COMP008",
+      "timestamp": 1720732800,
+      "emissions": 1300,
+      "verified": false
+    },
+    {
+      "companyId": "COMP009",
+      "timestamp": 1720819200,
+      "emissions": 2000,
+      "verified": true
+    },
+    {
+      "companyId": "COMP010",
+      "timestamp": 1720905600,
+      "emissions": 600,
+      "verified": false
+    },
+    {
+      "companyId": "COMP011",
+      "timestamp": 1720992000,
+      "emissions": 1700,
+      "verified": true
+    },
+    {
+      "companyId": "COMP012",
+      "timestamp": 1721078400,
+      "emissions": 1400,
+      "verified": false
+    },
+    {
+      "companyId": "COMP013",
+      "timestamp": 1721164800,
+      "emissions": 1100,
+      "verified": true
+    },
+    {
+      "companyId": "COMP014",
+      "timestamp": 1721251200,
+      "emissions": 2500,
+      "verified": false
+    },
+    {
+      "companyId": "COMP015",
+      "timestamp": 1721337600,
+      "emissions": 800,
+      "verified": true
+    },
+    {
+      "companyId": "COMP016",
+      "timestamp": 1721424000,
+      "emissions": 1600,
+      "verified": false
+    },
+    {
+      "companyId": "COMP017",
+      "timestamp": 1721510400,
+      "emissions": 900,
+      "verified": true
+    },
+    {
+      "companyId": "COMP018",
+      "timestamp": 1721596800,
+      "emissions": 1900,
+      "verified": false
+    },
+    {
+      "companyId": "COMP019",
+      "timestamp": 1721683200,
+      "emissions": 1000,
+      "verified": true
+    },
+    {
+      "companyId": "COMP020",
+      "timestamp": 1721769600,
+      "emissions": 2200,
+      "verified": false
+    }
+  ]
