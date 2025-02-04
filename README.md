@@ -1,6 +1,6 @@
 # EnergyChain Project
 
-Deployed on: [🔗](https://bushhhhhh-ffyxzx6p5-muskans-projects-da81f34d.vercel.app/)) [[bush-amber.vercel.app](https://bushhhhhh-ffyxzx6p5-muskans-projects-da81f34d.vercel.app/)
+Deployed on: [🔗](https://bushhhhhh-ffyxzx6p5-muskans-projects-da81f34d.vercel.app/) [bush-amber.vercel.app](https://bushhhhhh-ffyxzx6p5-muskans-projects-da81f34d.vercel.app/)
 
 
 ## 🚀 Overview
@@ -99,7 +99,7 @@ git clone https://github.com/musk1n/webss
 Navigate to the project directory and install required modules:
 
 ```bash
-cd bush
+cd webss
 npm install
 ```
 
