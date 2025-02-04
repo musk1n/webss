@@ -1,6 +1,6 @@
 # EnergyChain Project
 
-Deployed on: [🔗](http://bush-amber.vercel.app) [bush-amber.vercel.app](http://bush-amber.vercel.app)
+Deployed on: [🔗]((https://bushhhhhh-ffyxzx6p5-muskans-projects-da81f34d.vercel.app/)) [[bush-amber.vercel.app](https://bushhhhhh-ffyxzx6p5-muskans-projects-da81f34d.vercel.app/)
 
 
 ## 🚀 Overview
