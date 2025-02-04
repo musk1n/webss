@@ -89,27 +89,28 @@ Follow these steps to deploy the project on your local machine:
 
 ### 1️⃣ Clone the Repository
 
-bash
-git clone https://github.com/sristivats/bush.git
+```bash
+git clone https://github.com/musk1n/webss
+```
 
 
 ### 2️⃣ Install Dependencies
 
 Navigate to the project directory and install required modules:
 
-bash``
+```bash
 cd bush
 npm install
-``
+```
 
 
 ### 3️⃣ Run the Application
 
 Start the development server:
 
-bash``
+```bash
 npm run dev
-``
+```
 ## dApp demo
 
 ### Watch the Video
