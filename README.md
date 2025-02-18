@@ -5,9 +5,7 @@ Deployed on: [🔗](https://webss-ashy.vercel.app/) [webss-ashy.vercel.app](http
 
 ## 🚀 Overview
 
-This project leverages blockchain technology integrated with real-time data processors such as IoT devices to create a platform for carbon credit and electricity trading. By utilizing **privacy-preserving technologies like zk-SNARKs, the platform ensures transparent transactions while maintaining user privacy. The system facilitates **secure, traceable, and privacy-preserving trading to promote sustainability and efficient energy markets.
-
----
+This project leverages blockchain technology integrated with real-time data processors like IoT devices to create a platform for carbon credit and electricity trading. By utilizing **privacy-preserving technologies like zk-SNARKs, the platform ensures transparent transactions while maintaining user privacy. The system facilitates **secure, traceable, and privacy-preserving trading to promote sustainability and efficient energy markets.
 
 ## ⚡ Problem Statement
 
