@@ -15,6 +15,8 @@ The project addresses three key challenges in the energy sector:
 - ⚖ Energy Equity
 - 🌱 Environmental Sustainability
 
+---
+
 ### 🎯 Objectives
 
 - Enable transparent smart grid systems with direct prosumer participation.
